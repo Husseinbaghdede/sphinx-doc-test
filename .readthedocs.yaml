@@ -16,4 +16,4 @@ formats:
   - epub
 
 build:
-  os: ubuntu-20.04 t
+  os: "ubuntu-20.04"
